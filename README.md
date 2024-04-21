@@ -2,7 +2,7 @@
 
 This repository contains a simple yet powerful drawing application built with JavaScript, HTML, and CSS. It allows users to create digital artwork with various tools and features.
 
-## How to Play
+## How to Use
 
 - Visit the GitHub Pages site to play online. => [Drawing Application](https://omarmosharawi.github.io/DrawingApp_JS/)
   
