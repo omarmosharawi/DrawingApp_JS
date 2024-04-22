@@ -4,7 +4,7 @@ This repository contains a simple yet powerful drawing application built with Ja
 
 ## How to Use
 
-- Visit the GitHub Pages site to play online. => [Drawing Application](https://omarmosharawi.github.io/DrawingApp_JS/)
+- Visit the GitHub Pages site to use online. => [Drawing Application](https://omarmosharawi.github.io/DrawingApp_JS/)
   
 ## Features
 
